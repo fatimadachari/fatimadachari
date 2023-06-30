@@ -1,16 +1,11 @@
-## Olá, eu sou a Fátima Dachari👋
-Eu sou uma profissional formada em técnico em informática e atuo na área de desenvolvimento web. 
+# Olá, eu sou a Fátima Dachari👋
+Sou uma profissional apaixonada por tecnologia, tecnóloga em informática com experiência em desenvolvimento de sites e sistemas. 
 
-Em 2021, tive a oportunidade de realizar um estágio em uma empresa do ramo, onde pude aprimorar minhas habilidades em JavaScript, utilizando Node.js e React.js em minhas atividades. 
+Tenho experiência na criação e administração de sites otimizados para empresas, proporcionando a elas destaque no mercado digital. Além da criação, também trabalho com ferramentas de monitoramento e análise de sites proporcionando uma presença digital sólida para o sucesso de uma marca.
 
-Após a conclusão do estágio, fui efetivada pela mesma empresa para participar de um projeto cujo objetivo era desenvolver um site responsivo e otimizado para SEO para o novo produto da empresa. O site foi criado usando PHP Laravel, HTML, CSS e JavaScript. 
+Confira meu site, onde compartilho projetos em WordPress: https://fatimadachari.com/ ✨
 
-Durante meu tempo na empresa, também participei do desenvolvimento do novo produto da empresa, um sistema de gerenciamento de ponto feito em TypeScript com NestJS. Neste projeto, fui responsável pelo front-end, criando telas e funções para o sistema.
-
-No momento, estou procurando uma nova oportunidade profissional que me desafie diariamente. Continuo aprimorando minhas habilidades e me esforçando para garantir um desempenho cada vez mais eficiente. Sou uma pessoa que valoriza o trabalho em equipe e prezo por manter um ambiente de trabalho organizado e tranquilo.
-
-## Minhas principais habilidades✨
-
+Além disso, possuo habilidades em linguagens de desenvolvimento web, as quais você poderá ver projetos aqui nesse perfil: 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="">
@@ -18,8 +13,13 @@ No momento, estou procurando uma nova oportunidade profissional que me desafie d
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="">
 </div>
+<br>
 
-
-
+<div>
+<a href="">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadachari&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadachari&layout=compact&theme=dracula">
+</div>
+<br>
+Estou ansiosa para colaborar com projetos desafiadores e continuar ampliando meu conhecimento no mundo da tecnologia. Vamos trabalhar juntos para alcançar resultados incríveis!
