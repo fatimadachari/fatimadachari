@@ -5,7 +5,7 @@ Tenho experiência na criação e administração de sites otimizados para empre
 
 Confira meu site, onde compartilho projetos em WordPress: https://fatimadachari.com/ ✨
 
-Além disso, possuo habilidades em linguagens de desenvolvimento web, as quais você poderá ver projetos aqui nesse perfil: 
+Além disso, possuo habilidades em linguagens de programação, as quais você poderá ver projetos aqui nesse perfil: 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="">
