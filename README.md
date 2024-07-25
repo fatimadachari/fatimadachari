@@ -1,14 +1,13 @@
 # 👋 Bem-vindo(a) ao Meu Perfil GitHub!
 
 ## Sobre Mim
-Sou uma **Desenvolvedora Web** com um forte interesse em **Engenharia de Software**, dedicada a criar aplicações web que proporcionam experiências de usuário incríveis. Minha jornada é marcada pelo uso intensivo de **JavaScript**, **React**, e agora, me aventurando em **Node.js** para expandir minhas habilidades no back-end.
+Com uma base sólida em **desenvolvimento web**, utilizando **React.js e Node.js**, e uma paixão crescente pelo back-end, estou atualmente aprofundando meus conhecimentos no **desenvolvimento de sistemas** em **.NET** enquanto curso Engenharia de Software. Meu foco é criar aplicações ricas e interativas que ofereçam experiências excepcionais ao usuário. 
 
-- 💻 **Front-end**: Tenho proficiência em criar interfaces com PHP Laravel, JavaScript e React, focando em responsividade e interatividade.
-- 🌐 **Back-end**: Estou aprimorando minhas habilidades em Node.js, explorando construção de APIs e lógicas server-side.
-- 🎓 **Educação**: Cursando Engenharia de Software, onde estou solidificando minhas bases técnicas e aprendendo sobre práticas avançadas de desenvolvimento.
+- 💻 **Web**: Javascript (React.js e Node.js) e PHP (Laravel).
+- 🌐 **Sistemas**: C# (.NET) e Java.
+- 🎓 **Educação**: Cursando Engenharia de Software.
 
 ## Interesses
-- **Colaboração em Projetos Open-Source**: Desejo contribuir para projetos que utilizam tecnologias web modernas.
 - **Aprendizado Contínuo**: Busco aprofundar meus conhecimentos em arquitetura de software e padrões de design.
 - **Impacto Positivo**: Empolgada para trabalhar em projetos com significado social ou ambiental.
 
