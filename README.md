@@ -16,6 +16,7 @@ Estou aberta a colaborações e interessada em discutir tecnologias ou projetos.
 
 <div>
 <a href="">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadachari&show_icons=true&theme=dracula">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadachari&layout=compact&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadachari&theme=flag-india&locale=pt-br">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadachari&theme=flag-india&layout=compact&locale=pt-br">
 </div>
+
