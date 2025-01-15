@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGniBkZt6P7ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736278677707?e=1741824000&v=beta&t=O9z7YDdTmdQ7mtzi2OlIS7u5sDSox67jBofh6bQJtAk">
-
 # Olá, eu sou a Fátima! 👋 
 Com experiência em desenvolvimento web utilizando **React.js e Node.js**, e uma paixão crescente pelo back-end, estou atualmente focada no desenvolvimento de sistemas em **C# (.NET)** e explorando o universo da **Inteligência Artificial com Python**, enquanto curso **Engenharia de Software**. Meu objetivo é criar aplicações eficientes e interativas, priorizando experiências excepcionais para o usuário e soluções robustas.. 
 
