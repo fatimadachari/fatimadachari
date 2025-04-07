@@ -9,10 +9,10 @@ Atualmente, sou **auxiliar de programação**, com experiência em **desenvolvim
 **Educação:**<br>
 **Engenharia de Software:** Estácio de Sá.<br>
 **Cursos Complementares:** Formação em C#, React e DevOPS (Rocketseat).
-
+<!--
 <div>
 <a href="">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatimadachari&locale=pt-br&theme=radical">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimadachari&layout=compact&locale=pt-br&theme=radical">
 </div>
-  
+-->
