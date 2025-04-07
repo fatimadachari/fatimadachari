@@ -1,4 +1,4 @@
-# Olá, eu sou a Fátima! 👋 
+# Olá, eu sou a Fátima! 
 Atualmente, sou **auxiliar de programação**, com experiência em **desenvolvimento web** utilizando **React e Node.js**, e um foco crescente em **C#**. Estou aprofundando meus conhecimentos enquantro curso minha graduação em **Engenharia de Software**. Meu objetivo é criar soluções que combinam performance e qualidade, oferecendo experiências únicas para os usuários.
 
 **Tecnologias:**<br>
