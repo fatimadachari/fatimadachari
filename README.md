@@ -1,14 +1,11 @@
-# Olá, eu sou a Fátima! 
-Atualmente, sou **auxiliar de programação**, com experiência em **desenvolvimento web** utilizando **React e Node.js**, e um foco crescente em **C#**. Estou aprofundando meus conhecimentos enquantro curso minha graduação em **Engenharia de Software**. Meu objetivo é criar soluções que combinam performance e qualidade, oferecendo experiências únicas para os usuários.
+**`Oi! eu sou a Fátima! 👩‍💻`**
 
-**Tecnologias:**<br>
-**Web:** Laravel, React.js e Node.js. <br>
-**Software:** .NET e .NET MAUI.<br>
-**Banco de Dados:** LiteDB, MySQL.<br>
-<br>
-**Educação:**<br>
-**Engenharia de Software:** Estácio de Sá.<br>
-**Cursos Complementares:** Formação em C#, React e DevOPS (Rocketseat).
+**`Desenvolvedora Front-End e Web Designer.`**
+
+**`Trabalho com desenvolvimento front-end e também crio sites por conta própria — duas coisas que eu realmente gosto de fazer. Hoje atuo com React.js e Next.js em projetos de sistemas, integrando APIs, criando telas e pensando na melhor experiência pra quem vai usar. Ao mesmo tempo, nas horas vagas, me dedico a criar sites para pequenas empresas e profissionais autônomos. Gosto de cuidar do visual, da navegação, da performance e do SEO, pra entregar algo bonito e funcional. Também curto mexer com Figma, ajustar detalhes e testar ideias que façam sentido pro usuário final. Estou sempre estudando e buscando melhorar, porque pra mim, programar e criar é mais do que só um trabalho — é algo que me move.`**
+
+**`Aqui no meu GitHub, você pode acompanhar meu dia a dia como desenvolvedora front-end — projetos, estudos, contribuições e aprendizados. Já no meu site, mostro meu trabalho como web designer, com sites criados em WordPress para pequenos negócios e profissionais autônomos. Aqui você encontra um pouco do que me inspira e do que venho desenvolvendo ao longo do tempo.`**
+
 <!--
 <div>
 <a href="">
