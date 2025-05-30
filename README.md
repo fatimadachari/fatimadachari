@@ -1,15 +1,15 @@
 # Olá, eu sou a Fátima! 👋 
-Com experiência em desenvolvimento web utilizando **React.js e Node.js**, e uma paixão crescente pelo back-end, estou atualmente focada no desenvolvimento de sistemas em **C# (.NET)** e explorando o universo da **Inteligência Artificial com Python**, enquanto curso **Engenharia de Software**. Meu objetivo é criar aplicações eficientes e interativas, priorizando experiências excepcionais para o usuário e soluções robustas.
+Sou desenvolvedora full-stack em construção, com foco principal no front-end utilizando **React.js** e conhecimentos complementares em **Node.js** e **C#**. Tenho me dedicado aos estudos em **Python** e **Inteligência Artificial**, buscando entender como essas tecnologias podem ser aplicadas para automatizar processos, trabalhar com dados e melhorar a experiência das pessoas com soluções digitais mais inteligentes.
 
 **Tecnologias:**<br>
-**Web:** Javascript (React.js e Node.js), PHP (Laravel). <br>
+**Web:** React.js, Node.js, Laravel. <br>
 **Software:** C# (.NET, .NET MAUI). <br>
 **Dados e IA:** Python.<br>
 **Banco de Dados:** LiteDB, MySQL, PostgreSQL.<br>
 
 **Educação:**<br>
 **Engenharia de Software:** Estácio de Sá.<br>
-**Cursos Complementares:** Formação em C# e Desenvolvimento de IA (Rocketseat).
+**Cursos Complementares:** Formação em C#, React.js, Node.js, DevOPS e Desenvolvimento de IA na Rocketseat.
 
 <!--<div>
 <a href="">
