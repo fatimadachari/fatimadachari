@@ -32,6 +32,7 @@ Cursando dupla graduação em **Engenharia de Software** e **Ciência de Dados**
 <br>
 <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET MAUI" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron" />
 
 <br>
 
