@@ -7,9 +7,9 @@
 
 ### 👩‍💻 Sobre mim
 
-Desenvolvedora Full Stack com base sólida em **front-end** e interfaces de alta complexidade. Profissionalmente, utilizo **Next.js** e **React.js** para evoluir sistemas de gestão, unindo performance, usabilidade e regras de negócio.
+Desenvolvedora Full Stack com base sólida em **front-end** e interfaces de alta complexidade. Profissionalmente, utilizo **Next.js** para evoluir sistemas de gestão, unindo performance, usabilidade e regras de negócio.
 
-Em paralelo, sigo evoluindo no **back-end** através de projetos autônomos com **.NET** e **Nest.js**, buscando versatilidade técnica entre os ecossistemas Microsoft e TypeScript.
+Em paralelo, sigo evoluindo no **back-end** através de projetos autônomos com **Nest.js**, consolidando minha especialização completa no ecossistema **TypeScript**.
 
 **Minha Jornada em Dados:**
 Cursando dupla graduação em **Engenharia de Software** e **Ciência de Dados**, atuo na interseção dessas áreas. Busco integrar as melhores práticas de Engenharia com o poder do **Machine Learning** para entregar produtos que sejam, ao mesmo tempo, tecnicamente robustos e estrategicamente inteligentes.
@@ -38,7 +38,6 @@ Cursando dupla graduação em **Engenharia de Software** e **Ciência de Dados**
 **Back-end, Dados & DevOps**
 <br>
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 
